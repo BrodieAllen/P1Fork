@@ -146,7 +146,7 @@ class: 'text-center'
 
 # Create a repository
 
-<a href="https://github.com/new">https://github.com/new</a>
+https://github.com/new
 
 ---
 layout: statement
@@ -657,7 +657,7 @@ revert your first commit
 
 ---
 
-Playground: <a href="https://git-school.github.io/visualizing-git">https://git-school.github.io/visualizing-git</a>
+Playground: https://git-school.github.io/visualizing-git
 
 <iframe src="https://git-school.github.io/visualizing-git" title="https://git-school.github.io/visualizing-git"></iframe>
 
