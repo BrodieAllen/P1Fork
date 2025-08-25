@@ -18,5 +18,6 @@
     "@iconify-json/flat-color-icons": "^1.1.7",
     "@iconify-json/mdi": "^1.1.54",
     "playwright-chromium": "^1.25.2"
-  }
+  },
+  "packageManager": "pnpm@10.15.0+sha256.84c19e788d7d7ee248e4a6b7152f8ebba0f4fe7380a5f443ca17d76c030052d2"
 }
