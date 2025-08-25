@@ -33,9 +33,6 @@ importers:
       '@iconify-json/mdi':
         specifier: ^1.1.54
         version: 1.2.3
-      playwright-chromium:
-        specifier: ^1.25.2
-        version: 1.55.0
 
 packages:
 
@@ -5410,8 +5407,10 @@ snapshots:
   playwright-chromium@1.55.0:
     dependencies:
       playwright-core: 1.55.0
+    optional: true
 
-  playwright-core@1.55.0: {}
+  playwright-core@1.55.0:
+    optional: true
 
   points-on-curve@0.2.0: {}
 
