@@ -3,13 +3,16 @@
 ## Heading Two
 ### Heading Three
 __Bold Text__ **Maybe also Bold Text**
+
 _italics one_ *italicstwo?*
 >is this a block quote?
 
-[!ALERT]
+[!WARNING]
+This works now
 
-Some asm code 
-'''assembly 
+Some asm code
+ 
+'''asm 
 	mov.b 080b , R8
 Test:
 	inc R8 
@@ -22,17 +25,20 @@ Test:
 |Content| content|
 
 unordered list here
+
 -B
 -c
 -z
 -a
+
 ordered list here
+
 1.a
 2.b
 3.c
 
-link below
+link below 
 [Click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Photo Here
-![Sweet Ride](/assets/images/GARV.png)
+![Sweet Ride](GARV.png)
