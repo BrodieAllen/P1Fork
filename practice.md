@@ -26,19 +26,19 @@ Test:
 
 unordered list here
 
--B
--c
--z
--a
+- B
+- c
+- z
+- a
 
 ordered list here
 
-1.a
-2.b
-3.c
+1. a
+2. b
+3. c
 
 link below 
 [Click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Photo Here
-![Sweet Ride](GARV.png)
+![Sweet Ride](GARV.jpg)
