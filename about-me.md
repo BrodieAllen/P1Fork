@@ -1,5 +1,6 @@
-*Broderick Allen 
-|![Dapper Photo Here](GARV.jpg)|
+*About Broderick Allen 
+
+|![Dapper Photo Here](picoMe.jpg)|
 |-----------------|
 |Broderick "Brodie" Allen|
 |Electrical Engineering Major|
