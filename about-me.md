@@ -1,4 +1,4 @@
-*About Broderick Allen 
+* About Broderick Allen 
 
 |![Dapper Photo Here](picoMe.jpg)|
 |-----------------|
